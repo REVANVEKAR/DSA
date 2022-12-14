@@ -13,7 +13,7 @@ public class inbuilthashmap {
         map.put("def", 3);
 
         //size
-        map.put("abc", 4); // size wont change just the value does
+        map.put("abc", 4); // size won't change just the value does
         System.out.println(map.size());
 
         if (map.containsKey("abc")) {
